@@ -35,9 +35,6 @@ An intelligent product recommendation system that combines collaborative filteri
     <img width="1101" height="645" alt="image1" src="https://github.com/user-attachments/assets/2c76b77e-8a6c-4d28-ba47-aa946931a126" />
 
 
-## 🎬 Demo
-[Watch demo video](https://drive.google.com/file/d/18vEnaCMx1ZuUVT_itLzkbA2Rg500eN4D/view?usp=sharing)
-
 
 ### How It Works:
 1. User browses products on the dashboard
@@ -123,6 +120,4 @@ An intelligent product recommendation system that combines collaborative filteri
 
 ---
 
-
-*Last Updated: October 15, 2025*
 
